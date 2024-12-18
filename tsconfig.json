@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"checkJs": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"sourceMap": true,
+		"strict": true,
+		"module": "es2015",
+		"moduleResolution": "bundler",
+		"outDir": "./dist"
+	},
+	"exclude": ["svelte.config.js", "dist", "node_modules"]
+}
