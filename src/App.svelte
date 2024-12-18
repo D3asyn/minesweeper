@@ -150,6 +150,7 @@
 		border: 1px solid #ccc;
 		cursor: pointer;
 		background-color: lightgray;
+		color: black;
 	}
 	td.revealed {
 		background-color: white;
